@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ClipBoard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClipBoard_jar</output-path>
+    <root id="archive" name="ClipBoard.jar">
+      <element id="module-output" name="ClipBoard" />
+    </root>
+  </artifact>
+</component>
